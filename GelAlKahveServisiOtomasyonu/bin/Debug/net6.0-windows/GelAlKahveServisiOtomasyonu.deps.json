@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GelAlKahveServisiOtomasyonu/1.0.0": {
+        "dependencies": {
+          "Otomasyon": "1.0.0"
+        },
+        "runtime": {
+          "GelAlKahveServisiOtomasyonu.dll": {}
+        }
+      },
+      "Otomasyon/1.0.0": {
+        "runtime": {
+          "Otomasyon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GelAlKahveServisiOtomasyonu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Otomasyon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
